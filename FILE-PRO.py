@@ -487,9 +487,9 @@ logo = """
     \33[1;36m╠══[Author   : MR RAKIB.404 	\33[1;37m  ║ 
     \33[1;35m╠══[FACEBOOK : MD EMAZ UDDIN RAKIB            ║    
     \33[1;34m╠══[CREATED  : MR RAKIB.404     	\33[1;32m  ║
-    \33[1;31m╠══[NETWORK  : \33[1;37mSPEED 4G \33[1;37m    ║
-    \33[1;33m╠══[TOOLS    : \33[1;33mPAID \33[1;37m        ║ 
-    \33[1;32m╠══[VERSION  : \33[1;35m3.0 \33[1;32m         ║  
+    \33[1;31m╠══[NETWORK  : \33[1;37mSPEED 4G   \33[1;37m  ║
+    \33[1;33m╠══[TOOLS    : \33[1;33mPAID       \33[1;37m  ║ 
+    \33[1;32m╠══[VERSION  : \33[1;35m3.0        \33[1;32m  ║  
     \33[1;37m╚═══════════════════════════════════════╝                 
 """
 class Main:
