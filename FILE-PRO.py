@@ -457,7 +457,7 @@ def Subscraption():
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
-		print(" Copy And Send Key To Admin")
+		print(" Copy And Send Key To Whatsapp Group")
 		print ("")
 		print (" Your Key : "+ak+key1)
 		print ("")
@@ -1446,7 +1446,7 @@ def Subscraption():
 		print ("")
 		print("  \033[1;32m Your Key is Not Approved ")
 		print("")
-		print("Copy And Send Key To Admin")
+		print("Copy And Send Key To Whatsapp Group")
 		print ("")
 		print (" Your Key : "+ak+ahsan+key1)
 		print ("")
@@ -1455,7 +1455,7 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
-		os.system('am start https://wa.me/+8801931134878?text=' + tks)
+		os.system("xdg-open https://chat.whatsapp.com/FK5mDR4T2By4KxLwRyhzjx/?app=fbl")
 		Subscraption()
 Subscraption()
 		
